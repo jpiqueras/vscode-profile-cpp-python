@@ -6,7 +6,7 @@ Visual Studio Code now support [profiles](https://code.visualstudio.com/docs/edi
 The extensions and settings that I consider the minimum. 
 
 ```
-https://github.com/jpiqueras/vscode-profile-cpp-python/Cpp_Python_minimal.code-profile
+https://raw.githubusercontent.com/jpiqueras/vscode-profile-cpp-python/main/Cpp_Python_minimal.code-profile
 ```
 
 ## Complete
