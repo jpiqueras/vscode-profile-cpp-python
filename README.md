@@ -10,3 +10,6 @@ https://github.com/jpiqueras/vscode-profile-cpp-python/Cpp_Python_minimal.code-p
 ```
 
 ## Complete
+```
+https://raw.githubusercontent.com/jpiqueras/vscode-profile-cpp-python/main/Cpp_Python_minimal.code-profile
+```
